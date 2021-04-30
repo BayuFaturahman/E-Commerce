@@ -73,7 +73,7 @@ List<Product> demoProducts = [
       Color(0xFFDECB9C),
       Colors.white,
     ],
-    title: "Gloves XC Omega - Polygon",
+    title: "Gloves XC Omega - Polygon X2021",
     price: 36.55,
     description: description,
     rating: 4.1,
